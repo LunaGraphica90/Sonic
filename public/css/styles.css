@@ -1,0 +1,141 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+    color:#ffffff;
+    font-family: 'Nanum Gothic Coding', monospace;
+    padding:25px;
+}
+
+h1, h2{
+    font-family: 'Bungee', cursive;
+    text-align:center;
+}
+
+h1{
+    border-bottom:1px solid #fff;
+    padding-bottom:25px;
+    margin-bottom:15px;
+}
+
+h2, h3{
+    margin:30px 0;
+}
+
+img.logo{
+    width:220px;
+}
+
+#header{
+    padding : 0 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 90px;
+}
+
+#recherche{
+    text-align:right;
+}
+
+input.recherche{
+    border-radius:25px;
+    padding:8px 12px;
+    border:none;
+}
+
+button.recherche{
+    background: linear-gradient(#e66465, #9198e5);
+    border:none;
+    border-radius:25px;
+    width:50px;
+    height:50px;
+    margin:0 15px;
+    color:#ffffff;
+}
+/*TABLEAU*/
+
+img.img-perso{
+    width:80px ;
+}
+
+.table{
+    width:100%;
+    margin:auto;
+    text-align:center;
+}
+
+.head-table{
+    text-align:center;
+}
+
+/*NAVIGATION*/
+nav.navbar{
+    background:none !important;
+}
+
+nav.navbar a{
+    color:#ffffff !important;
+    margin:0 25px;
+    font-weight:700;
+    font-size:1.5em;
+}
+
+nav.navbar a:hover{
+    text-decoration:underline !important;
+}
+
+
+/*Image d'illustration*/
+.img-illustr{
+    width:350px;
+    margin-top:60px;
+}
+
+.image-fond {
+    text-align:center;
+}
+
+
+/*Page créateur*/
+
+article{
+    text-align: center;
+    width:33%;
+    float:left;
+}
+
+.img-creator img{
+    max-width:150px;
+    border-radius:50%;
+    margin-bottom:15px;
+    box-shadow: 0px 0px 17px 0px rgba(255,255,255,1);
+}
+
+/*FOOTER*/
+
+#footer{
+    margin-top:60px;
+    text-align:center;
+
+}
+#footer h3{
+    margin:0px;
+}
+
+#footer ul{
+    display:inline-flex;
+    padding:0 !important;
+    margin:0px !important;
+}
+#footer li{
+    list-style-type: none;
+    margin:0 10px;
+}
+
+#footer a{
+    color:#ffffff;
+}
+#footer a:hover{
+    color:#f0f;
+}
