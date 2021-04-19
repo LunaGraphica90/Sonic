@@ -16,4 +16,4 @@ Thème libre.
 HTML/CSS/PHP/MYSQL
 
 ## Lien vers le site 
-[Game Of Thrones](http://www.devweb.luna-graphica.fr/SONIC/)
+[Sonic](http://www.devweb.luna-graphica.fr/SONIC/)
