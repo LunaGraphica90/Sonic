@@ -13,7 +13,4 @@ Mettre en place un petit projet contenant 2 pages, sur le modèle MVC. Seules le
 Thème libre.
 
 ## Technologies utilisées
-HTML/CSS/PHP/MYSQL
-
-## Lien vers le site 
-[Sonic](http://www.devweb.luna-graphica.fr/SONIC/)
+HTML/CSS/PHP/MYSQL/BOOTSTRAP
